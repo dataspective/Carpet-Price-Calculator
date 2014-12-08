@@ -1,0 +1,10 @@
+c:\users\derek fermaint\documents\visual studio 2013\Projects\Carpet Price Calculator\Carpet Price Calculator\bin\Debug\Carpet Price Calculator.exe.config
+c:\users\derek fermaint\documents\visual studio 2013\Projects\Carpet Price Calculator\Carpet Price Calculator\bin\Debug\Carpet Price Calculator.exe
+c:\users\derek fermaint\documents\visual studio 2013\Projects\Carpet Price Calculator\Carpet Price Calculator\bin\Debug\Carpet Price Calculator.pdb
+c:\users\derek fermaint\documents\visual studio 2013\Projects\Carpet Price Calculator\Carpet Price Calculator\bin\Debug\Carpet Price Calculator.xml
+c:\users\derek fermaint\documents\visual studio 2013\Projects\Carpet Price Calculator\Carpet Price Calculator\obj\Debug\Carpet_Price_Calculator.Form1.resources
+c:\users\derek fermaint\documents\visual studio 2013\Projects\Carpet Price Calculator\Carpet Price Calculator\obj\Debug\Carpet_Price_Calculator.Resources.resources
+c:\users\derek fermaint\documents\visual studio 2013\Projects\Carpet Price Calculator\Carpet Price Calculator\obj\Debug\Carpet Price Calculator.vbproj.GenerateResource.Cache
+c:\users\derek fermaint\documents\visual studio 2013\Projects\Carpet Price Calculator\Carpet Price Calculator\obj\Debug\Carpet Price Calculator.exe
+c:\users\derek fermaint\documents\visual studio 2013\Projects\Carpet Price Calculator\Carpet Price Calculator\obj\Debug\Carpet Price Calculator.xml
+c:\users\derek fermaint\documents\visual studio 2013\Projects\Carpet Price Calculator\Carpet Price Calculator\obj\Debug\Carpet Price Calculator.pdb
